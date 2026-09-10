@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
