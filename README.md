@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2574-left-and-right-sum-differences](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
