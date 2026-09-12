@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0217-contains-duplicate) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
