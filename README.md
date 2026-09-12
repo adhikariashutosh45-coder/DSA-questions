@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0268-missing-number) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/2574-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adhikariashutosh45-coder/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
